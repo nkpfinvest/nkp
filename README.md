@@ -58,6 +58,6 @@ while running:
 # Quit Pygame
 pygame.quit()
 sys.exit()
-# 退出Pygame
+# Pygame
 pygame.quit()
 sys.exit()
