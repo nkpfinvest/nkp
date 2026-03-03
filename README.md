@@ -25,7 +25,7 @@ ball_speed_y = 4  # Vertical speed
 clock = pygame.time.Clock()
 FPS = 60
 
-# Main game loop test-ind-api#fyinformation#cc (core of the animation)
+# Main game loop  (core of the animation)
 running = True
 while running:
     # Control frame rate
